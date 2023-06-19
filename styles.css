@@ -2,20 +2,19 @@
 * {
     box-sizing: border-box;
   }
-  
+  /*move entire form to the centre*/
+  body{
+    display: flex;
+    justify-content: center;
+  }
+  h2{
+    color: black;
+  }
   /* Remove margins and padding from the list */
   ul {
     margin: 0;
     padding: 0;
   }
-  h2{
-    color: black;
-  }
-  body{
-    display: flex;
-    justify-content: center;
-  }
-  
   /* Style the list items */
   ul li {
     cursor: pointer;
