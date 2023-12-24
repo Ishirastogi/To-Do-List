@@ -1,4 +1,4 @@
-# Project: Todo List Web App
+# Project: Todo List Web-App
 
 ## Description
 This project is a web application that allows users to manage their tasks using a todo list. Users can add, delete, and mark tasks as complete, providing an organized way to track their activities.
